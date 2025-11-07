@@ -1,9 +1,9 @@
-##🏥 Projeto — Landing Page de Agendamento Médico | Bronstein (Réplica Educacional)
+🏥 Projeto — Landing Page de Agendamento Médico | Bronstein (Réplica Educacional)
 
 Este projeto é uma réplica simplificada e não oficial do site da empresa Bronstein, criada com o objetivo de praticar HTML5 e CSS3, explorando técnicas modernas de layout, design responsivo e hierarquia visual.
 A página simula uma plataforma de agendamento online de exames, vacinas e testes laboratoriais, com foco em usabilidade, clareza e estética profissional.
 
-###💡 Objetivos do Projeto
+💡 Objetivos do Projeto
 
 Reforçar boas práticas de HTML semântico e CSS modular.
 
@@ -15,7 +15,7 @@ Explorar transições sutis e estados de interação (hover) para melhorar a exp
 
 Preparar a base do layout para media queries e adaptação completa a diferentes dispositivos.
 
-###🧱 Estrutura da Página
+🧱 Estrutura da Página
 
 Navbar: Logotipos e navegação principal com botões de destaque.
 
@@ -29,7 +29,7 @@ Sessão “Sobre o Nav”: Apresentação da plataforma com layout em duas colun
 
 Rodapé: Central de ajuda, links úteis e ícones de redes sociais.
 
-###🎨 Detalhes Técnicos
+🎨 Detalhes Técnicos
 
 - HTML5: Estrutura semântica e organizada por seções.
 
