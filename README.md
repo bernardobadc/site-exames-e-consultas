@@ -33,7 +33,7 @@ Rodapé: Central de ajuda, links úteis e ícones de redes sociais.
 
 - HTML5: Estrutura semântica e organizada por seções.
 
-- CSS3:
+- CSS3: Foco em UX e IX intuitivas e organização de código.
 
 Tipografia: Open Sans
  (Google Fonts).
